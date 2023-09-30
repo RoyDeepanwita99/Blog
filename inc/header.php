@@ -5,7 +5,7 @@
 	<meta name="language" content="English">
 	<meta name="description" content="It is a website about education">
 	<meta name="keywords" content="blog,cms blog">
-	<meta name="author" content="Delowar">
+	<meta name="author" content="Deepanwita ">
 	<link rel="stylesheet" href="font-awesome-4.5.0/css/font-awesome.css">	
 	<link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="style.css">
@@ -40,7 +40,7 @@ $(window).load(function() {
 		<a href="index.php">
 			<div class="logo">
 				<img src="images/d.png" alt="Logo"/>
-				<h2>Blogging site</h2>
+				<h2>Welcome to Deepanwita's World</h2>
 				<p>Share & Explore the world</p>
 			</div>
 		</a>
